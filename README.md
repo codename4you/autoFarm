@@ -1,2 +1,0 @@
-# autoFarm
-autoFarm Minecraft Plugin
