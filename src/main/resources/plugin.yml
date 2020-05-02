@@ -1,0 +1,4 @@
+name: AutoFarm
+main: me.codename4you.autoFarm.AutoFarmMain
+version: 1.0.0
+api-version: 1.15

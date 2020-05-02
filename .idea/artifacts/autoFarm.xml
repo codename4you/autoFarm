@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="autoFarm">
+    <output-path>$PROJECT_DIR$/out/artifacts/autoFarm</output-path>
+    <root id="archive" name="autoFarm.jar" />
+  </artifact>
+</component>
